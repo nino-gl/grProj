@@ -1,0 +1,42 @@
+@media (max-width: 1024px) {
+.main__top {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .main__top__item {
+    display: flex;
+    flex-direction: column;
+} */
+
+.latest-work {
+    display: flex;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main__bottom {
+    display: flex;
+    flex-wrap: wrap;
+}
+}
+
+
+/*-------------------------khatia----------------------------------*/
+
+@media (max-width: 975px){
+    .header-navigation__list{
+        display: none;
+    }
+}
+
+@media (max-width: 795px){
+    .inline{
+        display: none;
+    }
+}
+
+
+/*-----------------------------------------------------------------*/
+
